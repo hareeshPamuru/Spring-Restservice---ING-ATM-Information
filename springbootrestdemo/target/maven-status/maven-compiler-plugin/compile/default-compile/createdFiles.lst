@@ -1,0 +1,10 @@
+com\dutch\IngatmInfo\DutchINGAtmInfoApplication.class
+com\dutch\IngatmInfo\model\OpeningHours.class
+com\dutch\IngatmInfo\model\Hours.class
+com\dutch\IngatmInfo\model\INGAtmsInfo.class
+com\dutch\IngatmInfo\constants\IngAtmInfoConstants.class
+com\dutch\IngatmInfo\service\IngAtmInfoService.class
+com\dutch\IngatmInfo\service\IngAtmInfoService$1.class
+com\dutch\IngatmInfo\utill\RestTemplateConfiguration.class
+com\dutch\IngatmInfo\controller\IngAtmInfoController.class
+com\dutch\IngatmInfo\model\Address.class
