@@ -71,6 +71,7 @@ public class IngAtmInfoService {
     }
 
     INGAtmsInfo generateINGAtmsInfoDto(JSONObject object, JSONObject addressJson) {
+        logger.info("IngAtmInfoService -  generateINGAtmsInfoDto");
         INGAtmsInfo iNGAtmsInfo = new INGAtmsInfo();
         iNGAtmsInfo.setCity((String) addressJson.get(CITY));
         Address address = new Address();
